@@ -2,13 +2,13 @@
 /**
  * The Queen's Stylesheet
  *
- * Brits, take control of the web. Spiffing allows you to write your CSS and stylesheets 
- * in conformance to proper British English (also known as correct English) grammar and 
+ * Brits, take control of the web. Spiffing allows you to write your CSS and stylesheets
+ * in conformance to proper British English (also known as correct English) grammar and
  * spelling regulations.
  *
  *
  * Example of use:
- * 
+ *
  * Take your typical string CSS which you want to be be parsed by
  * Her Majesty the Queen's Spiffing CSS parser:
  *
@@ -27,7 +27,7 @@
  * $css->process();
  *
  * Perfect!
- * 
+ *
  * @authors 	@kapooht & @idiot
  * @license 	☺ License (http://licence.visualidiot.com)
  *
@@ -44,7 +44,7 @@
 			'colour'			=> 'color',
 			'grey'				=> 'gray',
 			'!please'			=> '!important',
-			'transparency'		=> 'opacity',
+			'opaqueness'		=> 'opacity',
 			'centre'			=> 'center',
 			'plump'				=> 'bold',
 			'photograph'		=> 'image',
