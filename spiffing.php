@@ -41,12 +41,11 @@
 		 */
 		public $dictionary 		= array(
 			// Queen's English	// Primitive English from our stateside friends from across the pond.
-			'colour'			=> 'color',
-			'grey'				=> 'gray',
-			'!please'			=> '!important',
-			'opaqueness'		=> 'opacity',
-			'centre'			=> 'center',
-			'plump'				=> 'bold',
+			'colour'		=> 'color',
+			'grey'			=> 'gray',
+			'!please'		=> '!important',
+			'centre'		=> 'center',
+			'plump'			=> 'bold',
 			'photograph'		=> 'image',
 			'capitalise'		=> 'capitalize'
 		);
